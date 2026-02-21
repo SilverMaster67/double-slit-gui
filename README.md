@@ -37,7 +37,7 @@ The GUI lets you tweak physical parameters in real time and immediately see how 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/double-slit-gui.git
+git clone https://github.com/SilverMaster67/double-slit-gui.git
 cd double-slit-gui
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
